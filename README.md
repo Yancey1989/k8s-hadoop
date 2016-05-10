@@ -1,3 +1,5 @@
+# MOVE TO https://github.com/k8sp/hadoop
+
 # k8s-hadoop
 
 Deploy Apache-Hadoop on kubernetes, I will record some problem with issues while doing the project.
